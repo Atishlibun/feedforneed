@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/feedforneed/static/css/main.c0984f41.css",
+    "main.js": "/feedforneed/static/js/main.10e2e148.js",
+    "static/js/787.bb39fef9.chunk.js": "/feedforneed/static/js/787.bb39fef9.chunk.js",
+    "static/media/background.png": "/feedforneed/static/media/background.eb4eb81d5f494debd72a.png",
+    "static/media/donatefood1.jpg": "/feedforneed/static/media/donatefood1.3eeb8dc3be1aa1fed7c8.jpg",
+    "index.html": "/feedforneed/index.html",
+    "main.c0984f41.css.map": "/feedforneed/static/css/main.c0984f41.css.map",
+    "main.10e2e148.js.map": "/feedforneed/static/js/main.10e2e148.js.map",
+    "787.bb39fef9.chunk.js.map": "/feedforneed/static/js/787.bb39fef9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0984f41.css",
+    "static/js/main.10e2e148.js"
+  ]
+}
